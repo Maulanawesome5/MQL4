@@ -10,4 +10,5 @@ Maka dengan pasrah saya memakai code editor yang memang khusus untuk bahasa MQL 
 
 ## Tutorial dan Referensi
 Di youtube saya juga kesulitan untuk mencari tutorial berbahasa indonesia yang mengajarkan cara mengembangkan bahasa MQL4 ini. Maka dengan pasrah saya menonton yang berbahasa inggris saja. Selain itu, jika anda fasih dalam berbahasa inggris, sebenarnya situs official <www.mql5.com> juga menyediakan dokumentasi untuk belajar mengenal penggunaan sintaks MQL.
-**Youtube** : https://youtube.com/
+
+1. **Youtube** : https://youtu.be/YNUI4I6m4xU
